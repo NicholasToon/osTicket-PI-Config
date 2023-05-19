@@ -69,7 +69,7 @@ Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisi
 <p>
  
 <h3> Departments </h3>
-Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators -> Create Dept (System Administrators will now appear in Departments 
+Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators -> Create Dept (System Administrators will now appear in Departments) 
 </p>
 <br />
 
