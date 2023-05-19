@@ -51,7 +51,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
  
 <h3> Roles </h3>
 
-Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisions -> Check All -> Tasks -> Check All -> Knowledge Base -> Check All -> Add Role (Supreme Admin will now show up in Roles)
+Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisions -> Check All -> Tasks -> Check All -> Knowledge Base -> Check All -> Add Role (Supreme Admin will now appear in Roles)
 
 (NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.)
 
@@ -69,7 +69,7 @@ Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisi
 <p>
  
 <h3> Departments </h3>
-Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators -> Create Dept
+Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators -> Create Dept (System Administrators will now appear in Departments 
 </p>
 <br />
 
