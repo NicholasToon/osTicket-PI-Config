@@ -35,7 +35,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 <p>
  
  <p>
-<img src=""/>
+<img src="https://i.imgur.com/hX3FO3D.png"/>
 </p>
 <p>
  
