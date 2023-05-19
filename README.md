@@ -154,6 +154,12 @@ Feel Free to create other Agents for the different departments, rolls,etc.
 </p>
 <p>
  
+  </p>
+<br /><p>
+<img src="https://i.imgur.com/adGTJys.png"/>
+</p>
+<p>
+ 
 <h3> Users (Customers) </h3>
 
 Agent Panel (You should see Admin Panel after you switch) -> Users -> Add User -> Enter Credentials -Add User (User will now appear in User Directory) -> Register -> Create Account -> [Uncheck] Send account activation email to [Customer Email] -> Set Password
