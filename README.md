@@ -111,17 +111,18 @@ Admin Panel -> Settings -> User -> Settings -> Registration Required: [√] Requ
 </p>
 <p>
  
+ </p>
+<br /><p>
+<img src="https://i.imgur.com/bINkpDK.png" />
+</p>
+<p>
+ 
   </p>
 <br /><p>
 <img src="https://i.imgur.com/HepBntY.png" />
 </p>
 <p>
  
-  </p>
-<br /><p>
-<img src="https://i.imgur.com/bINkpDK.png" />
-</p>
-<p>
  
  
 <h3> Agents (Workers) </h3>
