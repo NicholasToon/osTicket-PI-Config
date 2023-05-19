@@ -97,7 +97,7 @@ Admin Panel -> Teams -> Add New Team (If level I Support is not already created,
  
 <h3> Allow Anyone to Create Tickets </h3>
 
-Admin Panel -> Settigs -> User -> Settings -> Registration Required: [√] Require registration and login to create tickets -> Save Changes
+Admin Panel -> Settings -> User -> Settings -> Registration Required: [√] Require registration and login to create tickets -> Save Changes
 
 </p>
 <br /><p>
