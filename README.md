@@ -123,16 +123,41 @@ Admin Panel -> Settings -> User -> Settings -> Registration Required: [√] Requ
 </p>
 <p>
  
+  </p>
+<br /><p>
+<img src="https://i.imgur.com/6Pqqjcl.png" />
+</p>
+<p>
  
  
 <h3> Agents (Workers) </h3>
 Admin Panel -> Agents -> Add New Agent -> Enter Credentials of your choice -> [√] Administrator -> Set Password -> [Uncheck] Send the agent a password reset email -> Set Password (I use Password1 for this tutorial) -> [Uncheck] Require password change at next login (Turn this off to save you headaches in the future) -> Access -> Primary Department -> System Administrators -> Select Role -> Supreme Admin -Extended Access -> System Administrators -> Permissions -> Select All -> Teams -> (Any one that you wish) Level II Support -> Create
+
+Feel Free to create other Agents for the different departments, rolls,etc.
+
+
 </p>
 <br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GYkqc44.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ 
+ </p>
+<br /><p>
+<img src="https://i.imgur.com/gJ0YcAw.png"/>
+</p>
+<p>
+ 
+ </p>
+<br /><p>
+<img src="https://i.imgur.com/xC77bbE.png"/>
+</p>
+<p>
+ 
+<h3> Users (Customers) </h3>
+
+Agent Panel (You should see Admin Panel after you switch) -> Users -> Add User -> Enter Credentials -Add User (User will now appear in User Directory) -> Register -> Create Account
+
 </p>
 <br /><p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
