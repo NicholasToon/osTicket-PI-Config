@@ -162,7 +162,7 @@ Feel Free to create other Agents for the different departments, rolls,etc.
  
 <h3> Users (Customers) </h3>
 
-Agent Panel (You should see Admin Panel after you switch) -> Users -> Add User -> Enter Credentials -Add User (User will now appear in User Directory) -> Register -> Create Account -> [Uncheck] Send account activation email to [Customer Email] -> Set Password
+Agent Panel (You should see Admin Panel after you switch) -> Users -> Add User -> Enter Credentials -Add User (User will now appear in User Directory) -> Register -> [Uncheck] Send account activation email to [Customer Email] -> Set Password -> Create Account (User will now appear as active and registered)
 
 Feel free to create other users.
 
@@ -173,6 +173,11 @@ Feel free to create other users.
 <p>
 
  <h3> SLA (Service-Level Agreement) </h3>
+ 
+ Admin Panel -> Manage -> SLA -> Add New SLA Plan ->
+  -Sev-A (1 hour, 24/7)
+  -Sev-B (4 hours, 24/7)
+  -Sev-C (8 hours, business hours)
  
 </p>
 <br /><p>
