@@ -13,7 +13,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 - PHP
 - osTicket
 
-<h2>Operating Systems Used </h2>
+<h3>Operating Systems Used </h3>
 
 - Windows 10</b> (21H2)
 
