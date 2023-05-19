@@ -2,19 +2,15 @@
 <img src="https://i.imgur.com/Xhzke3A.png"
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+<h1>osTicket - Post-Installation Configuration</h1>
+In the previous tutorial, we installed osTicket. In this tutorial, we will continue with the configuration process to familiarize you with its basic functions and setups.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- PHP
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
