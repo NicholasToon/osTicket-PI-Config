@@ -175,9 +175,9 @@ Feel free to create other users.
  <h3> SLA (Service-Level Agreement) </h3>
  
  Admin Panel -> Manage -> SLA -> Add New SLA Plan ->
-  -Sev-A (1 hour, 24/7)
-  -Sev-B (4 hours, 24/7)
-  -Sev-C (8 hours, business hours)
+  - Sev-A (1 hour, 24/7)
+  - Sev-B (4 hours, 24/7)
+  - Sev-C (8 hours, business hours)
  
 </p>
 <br /><p>
