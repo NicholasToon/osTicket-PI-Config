@@ -33,9 +33,20 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 <img src="https://i.imgur.com/ideOqQG.png"/>
 </p>
 <p>
+ 
+ <p>
+<img src="https://i.imgur.com/ideOqQG.png"/>
+</p>
+<p>
+ 
+ <p>
+<img src="https://i.imgur.com/ideOqQG.png"/>
+</p>
+<p>
+ 
 <h3> Roles </h3>
 
-Admin Panel -> Agents -> Add New Agent -> Roles
+Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisions -> Check All -> Tasks -> Check All -> Knowledge Base -> Check All -> Add Role
 
 (NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.)
 
