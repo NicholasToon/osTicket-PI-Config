@@ -40,18 +40,18 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 <p>
  
  <p>
-<img src=""/>
+<img src="https://i.imgur.com/62E0h6d.png"/>
 </p>
 <p>
  
  <p>
-<img src=""/>
+<img src="https://i.imgur.com/oJozv09.png"/>
 </p>
 <p>
  
 <h3> Roles </h3>
 
-Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisions -> Check All -> Tasks -> Check All -> Knowledge Base -> Check All -> Add Role
+Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisions -> Check All -> Tasks -> Check All -> Knowledge Base -> Check All -> Add Role (Supreme Admin will now show up in Rolls)
 
 (NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.)
 
