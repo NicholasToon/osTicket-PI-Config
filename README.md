@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Installation Configuration</h1>
-In the previous tutorial, we installed <a href="https://github.com/NicholasToon/osticket-prereqs> osTicket. </a> In this tutorial, we will continue with the configuration process to familiarize you with its basic functions and setups.<br />
+In the previous tutorial, we installed <a href="https://github.com/NicholasToon/osticket-prereqs"> osTicket. </a> In this tutorial, we will continue with the configuration process to familiarize you with its basic functions and setups.<br />
 
  
 <h2>Environments and Technologies Used</h2>
