@@ -225,4 +225,6 @@ Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Create a handful o
 
 Check your Help Topics dashboard and your new inputs will generated successfully.
  
-Lorem ipsum dolor sit amet, 
+<h2> Congratulations! You have successfully set up the core structures of osTicket. If you would like to explore further ticket manipulation, you can find a collection of examples that I have prepared for you to emulate and expand upon by clicking <a href=https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Examples > here. </a>
+ 
+ Thank you for reading!
