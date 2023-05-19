@@ -18,11 +18,14 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Roles
+- Departments
+- Teams
+- Allow anyone to create tickets
+- Agents (workers)
+- Users (Customers)
+- SLA (Service-Level Agreement)
+- Help Topics
 
 <h2>Configuration Steps</h2>
 
