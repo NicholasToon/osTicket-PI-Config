@@ -168,13 +168,36 @@ Feel free to create other users.
 
 </p>
 <br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hGZqOeE.png"/>
 </p>
 <p>
 
+ </p>
+<br /><p>
+<img src="https://i.imgur.com/TO25ZYG.png"/>
+</p>
+<p>
+ 
+ </p>
+<br /><p>
+<img src="https://i.imgur.com/M8mEN4D.png"/>
+</p>
+<p>
+ 
+ </p>
+<br /><p>
+<img src="https://i.imgur.com/bf8wFXt.png"/>
+</p>
+<p>
+ 
+ </p>
+<br /><p>
+<img src="https://i.imgur.com/6gzuP8J.png"/>
+</p>
+<p>
  <h3> SLA (Service-Level Agreement) </h3>
  
- Admin Panel -> Manage -> SLA -> Add New SLA Plan ->
+ Admin Panel -> Manage -> SLA -> Add New SLA Plan -> Create Sev-A (It will now appear in Service Level Aggrements) -> Create Sev-B and Sev-C
   - Sev-A (1 hour, 24/7)
   - Sev-B (4 hours, 24/7)
   - Sev-C (8 hours, business hours)
