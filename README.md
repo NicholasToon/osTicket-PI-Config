@@ -25,7 +25,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 - Item 4
 - Item 5
 
-<h2>Configuration Steps</h2>
+<h1>Configuration Steps</h1>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
