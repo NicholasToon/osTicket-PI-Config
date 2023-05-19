@@ -117,6 +117,12 @@ Admin Panel -> Settings -> User -> Settings -> Registration Required: [√] Requ
 </p>
 <p>
  
+  </p>
+<br /><p>
+<img src="https://i.imgur.com/HepBntY.png" />
+</p>
+<p>
+ 
 <h3> Agents (Workers) </h3>
 Admin Panel -> Agents -> Add New Agent -> Enter Credentials of your choice -> [√] Administrator -> Set Password -> [Uncheck] Send the agent a password reset email -> Set Password (I use Password1 for this tutorial) -> [Uncheck] Require password change at next login (Turn this off to save you headaches in the future) -> Access -> Primary Department -> System Administrators -> Select Role -> Supreme Admin -Extended Access -> System Administrators -> Permissions -> Select All -> Teams -> (Any one that you wish) Level II Support -> Create
 </p>
