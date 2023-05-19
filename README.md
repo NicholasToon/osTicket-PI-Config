@@ -30,12 +30,12 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ideOqQG.png"/>
 </p>
 <p>
 <h3> Roles </h3>
 
-Admin Panel -> Agents -> Roles
+Admin Panel -> Agents -> Add New Agent -> Roles
 
 (NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.)
 
