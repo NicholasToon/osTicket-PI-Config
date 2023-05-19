@@ -59,11 +59,17 @@ Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UPmyOMv.png"/>
 </p>
 <p>
+ 
+ <p>
+<img src="https://i.imgur.com/9Bh6r4a.png"/>
+</p>
+<p>
+ 
 <h3> Departments </h3>
-
+Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators -> Create Dept
 </p>
 <br />
 
