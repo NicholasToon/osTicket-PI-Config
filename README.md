@@ -35,12 +35,17 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 <p>
  
  <p>
-<img src="https://i.imgur.com/ideOqQG.png"/>
+<img src=""/>
 </p>
 <p>
  
  <p>
-<img src="https://i.imgur.com/ideOqQG.png"/>
+<img src=""/>
+</p>
+<p>
+ 
+ <p>
+<img src=""/>
 </p>
 <p>
  
