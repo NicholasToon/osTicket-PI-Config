@@ -22,7 +22,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 - Departments
 - Teams
 - Allow anyone to create tickets
-- Agents (workers)
+- Agents (Workers)
 - Users (Customers)
 - SLA (Service-Level Agreement)
 - Help Topics
