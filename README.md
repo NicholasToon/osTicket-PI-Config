@@ -85,7 +85,7 @@ Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators ->
  
 <h3> Teams </h3>
 
-Admin Panel -> Teams -> Add New Team (If level I Support is not already created, then create it as you would Level II) -> Member -> Select Agent -> Add your created agent -> Create Team (Level II support will now have how ever many member(s) that were added to it)
+Admin Panel -> Agents -> Teams -> Add New Team (If level I Support is not already created, then create it as you would Level II) -> Member -> Select Agent -> Add your created agent -> Create Team (Level II support will now have how ever many member(s) that were added to it)
 
 </p>
 <br />
