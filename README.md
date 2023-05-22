@@ -30,7 +30,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/ideOqQG.png"/>
+<img src="https://i.imgur.com/5fCE6jK.png"/>
 </p>
 <p>
  
