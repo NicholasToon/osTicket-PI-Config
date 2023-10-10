@@ -31,7 +31,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
  
 ![Image](https://i.imgur.com/hX3FO3D.png)
  
-![Image](https://i.imgur.com/62E0h6d.png")
+![Image](https://i.imgur.com/62E0h6d.png)
  
 ![Image](https://i.imgur.com/oJozv09.png)
  
@@ -111,7 +111,7 @@ Feel free to create other users.
   - Sev-B (4 hours, 24/7)
   - Sev-C (8 hours, business hours)
  
-![Image](src="https://i.imgur.com/WvOU9q6.png)
+![Image](https://i.imgur.com/WvOU9q6.png)
  
 ![Image](https://i.imgur.com/s4YPIi5.png)
  
