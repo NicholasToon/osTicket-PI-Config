@@ -27,189 +27,95 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 
 ## Configuration Steps
 
-<p>
-<img src="https://i.imgur.com/5fCE6jK.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/5fCE6jK.png)
  
- <p>
-<img src="https://i.imgur.com/hX3FO3D.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/hX3FO3D.png)
  
- <p>
-<img src="https://i.imgur.com/62E0h6d.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/62E0h6d.png")
  
- <p>
-<img src="https://i.imgur.com/oJozv09.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/oJozv09.png)
  
-<h3> Roles </h3>
+### Roles
 
 **Admin Panel** -> **Agents** -> **Roles** -> Add New Role -> (Example: Supreme Admin) -> **Permissions** -> Check All -> **Tasks** -> Check All -> **Knowledge Base** -> Check All -> **Add Role** (Supreme Admin will now appear in Roles).
 
 (NOTE: To switch between the admin and agent panels, look at the top of the page. If it reads "Admin panel," it means you are in the Agent panel. If it reads "Agent panel," then you are in the Admin panel.)
 
-<p>
-<img src="https://i.imgur.com/UPmyOMv.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/UPmyOMv.png)
  
- <p>
-<img src="https://i.imgur.com/9Bh6r4a.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/9Bh6r4a.png)
  
-<h3> Departments </h3>
+### Departments 
 Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators -> Create Dept (System Administrators will now appear in Departments) 
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/mzBZR3C.png"/>
-</p>
-<p>
 
- <p>
-<img src="https://i.imgur.com/r6tuQCl.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/mzBZR3C.png)
+
+![Image](https://i.imgur.com/r6tuQCl.png)
  
-<h3> Teams </h3>
+### Teams 
 
 Admin Panel -> Agents -> Teams -> Add New Team (If level I Support is not already created, then create it as you would Level II) -> Member -> Select Agent -> Add your created agent -> Create Team (Level II support will now have how ever many member(s) that were added to it)
 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/ehfmvXL.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/ehfmvXL.png)
  
-<h3> Allow Anyone to Create Tickets </h3>
+### Allow Anyone to Create Tickets
 
 Admin Panel -> Settings -> Users -> Settings -> Registration Required: [√] Require registration and login to create tickets -> Save Changes
 
-</p>
-<br /><p>
-<img src="https://i.imgur.com/MaxNrRg.png" />
-</p>
-<p>
+![Image](https://i.imgur.com/MaxNrRg.png)
  
- </p>
-<br /><p>
-<img src="https://i.imgur.com/yR5OO9T.png" />
-</p>
-<p>
+![Image](https://i.imgur.com/yR5OO9T.png)
  
- </p>
-<br /><p>
-<img src="https://i.imgur.com/bINkpDK.png" />
-</p>
-<p>
+![Image](https://i.imgur.com/bINkpDK.png)
  
-  </p>
-<br /><p>
-<img src="https://i.imgur.com/HepBntY.png" />
-</p>
-<p>
+![Image](https://i.imgur.com/HepBntY.png)
  
-  </p>
-<br /><p>
-<img src="https://i.imgur.com/6Pqqjcl.png" />
-</p>
-<p>
+![Image](https://i.imgur.com/6Pqqjcl.png)
  
  
-<h3> Agents (Workers) </h3>
+### Agents (Workers) 
 Admin Panel -> Agents -> Add New Agent -> Enter Credentials of your choice -> [√] Administrator -> Set Password -> [Uncheck] Send the agent a password reset email -> Set Password (I use Password1 for this tutorial) -> [Uncheck] Require password change at next login (Turn this off to save you headaches in the future) -> Access -> Primary Department -> System Administrators -> Select Role -> Supreme Admin -Extended Access -> System Administrators -> Permissions -> Select All -> Teams -> (Any one that you wish) Level II Support -> Create
 
 Feel Free to create other Agents for the different departments, rolls,etc.
 
 
-</p>
-<br /><p>
-<img src="https://i.imgur.com/GYkqc44.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/GYkqc44.png)
  
- </p>
-<br /><p>
-<img src="https://i.imgur.com/gJ0YcAw.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/gJ0YcAw.png)
  
- </p>
-<br /><p>
-<img src="https://i.imgur.com/xC77bbE.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/xC77bbE.png)
  
-  </p>
-<br /><p>
-<img src="https://i.imgur.com/adGTJys.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/adGTJys.png)
  
-<h3> Users (Customers) </h3>
+### Users (Customers)
 
 Agent Panel (You should see Admin Panel after you switch) -> Users -> Add User -> Enter Credentials -Add User (User will now appear in User Directory) -> Register -> [Uncheck] Send account activation email to [Customer Email] -> Set Password -> Create Account (User will now appear as active and registered)
 
 Feel free to create other users.
 
-</p>
-<br /><p>
-<img src="https://i.imgur.com/Pb3PMRU.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/Pb3PMRU.png)
 
- </p>
-<br /><p>
-<img src="https://i.imgur.com/HXrYPiL.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/HXrYPiL.png)
  
- </p>
-<br /><p>
-<img src="https://i.imgur.com/uLhLnQS.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/uLhLnQS.png)
  
- </p>
-<br /><p>
-<img src="https://i.imgur.com/7JpaiWW.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/7JpaiWW.png)
  
- </p>
-<br /><p>
-<img src="https://i.imgur.com/E2mitYE.png"/>
-</p>
-<p>
- <h3> SLA (Service-Level Agreement) </h3>
+![Image](https://i.imgur.com/E2mitYE.png)
+ 
+ ### SLA (Service-Level Agreement)
  
  Admin Panel -> Manage -> SLA -> Add New SLA Plan -> Create Sev-A (It will now appear in Service Level Aggrements) -> Create Sev-B and Sev-C
   - Sev-A (1 hour, 24/7)
   - Sev-B (4 hours, 24/7)
   - Sev-C (8 hours, business hours)
  
-</p>
-<br /><p>
-<img src="https://i.imgur.com/WvOU9q6.png"/>
-</p>
-<p>
+![Image](src="https://i.imgur.com/WvOU9q6.png)
  
-</p>
-<br /><p>
-<img src="https://i.imgur.com/s4YPIi5.png"/>
-</p>
-<p>
+![Image](https://i.imgur.com/s4YPIi5.png)
  
-<h3> Help Topics </h3>
+### Help Topics
 
 Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Create a handful of topics -> Add Topic
 
@@ -220,6 +126,6 @@ Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Create a handful o
 
 Check your Help Topics dashboard and your new inputs will have generated successfully.
  
-<h2> Congratulations! You have successfully set up the core configurations of osTicket. If you would like to explore further ticket manipulation, you can find a Example that I have prepared for you to emulate and expand upon by clicking <a href=https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Example > here. </a>
+## Congratulations! You have successfully set up the core configurations of osTicket. If you would like to explore further ticket manipulation, you can find a Example that I have prepared for you to emulate and expand upon by clicking [here](https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Example). 
  
 Thank you for reading!
