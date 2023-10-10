@@ -6,7 +6,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
  ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection (RDC)
 - PHP
 - osTicket
 
