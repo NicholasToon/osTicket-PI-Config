@@ -1,22 +1,20 @@
-<p align="center">
-<img src="https://i.imgur.com/Xhzke3A.png"
-</p>
+![Image](https://i.imgur.com/Xhzke3A.png)
 
-<h1>osTicket - Post-Installation Configuration</h1>
-In the previous tutorial, we installed <a href="https://github.com/NicholasToon/osticket-prereqs"> osTicket. </a> In this tutorial, we will continue with the configuration process to familiarize you with its basic functions and setups.<br />
+# osTicket - Post-Installation Configuration
+In the previous tutorial, we installed <a href="https://github.com/NicholasToon/osticket-prereqs"> osTicket. </a> In this tutorial, we will continue with the configuration process to familiarize you with its basic functions and setups.
 
- <h2>Environments and Technologies Used</h2>
+ ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - PHP
 - osTicket
 
-<h2>Operating Systems Used </h2>
+## Operating Systems Used 
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+## Post-Install Configuration Objectives
 
 - Roles
 - Departments
@@ -27,7 +25,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 - SLA (Service-Level Agreement)
 - Help Topics
 
-<h2>Configuration Steps</h2>
+## Configuration Steps
 
 <p>
 <img src="https://i.imgur.com/5fCE6jK.png"/>
@@ -51,12 +49,9 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
  
 <h3> Roles </h3>
 
-Admin Panel -> Agents -> Roles -> Add New Role -> (Ex: Supreme Admin) -> Permisions -> Check All -> Tasks -> Check All -> Knowledge Base -> Check All -> Add Role (Supreme Admin will now appear in Roles)
+**Admin Panel** -> **Agents** -> **Roles** -> Add New Role -> (Example: Supreme Admin) -> **Permissions** -> Check All -> **Tasks** -> Check All -> **Knowledge Base** -> Check All -> **Add Role** (Supreme Admin will now appear in Roles).
 
-(NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.)
-
-</p>
-<br />
+(NOTE: To switch between the admin and agent panels, look at the top of the page. If it reads "Admin panel," it means you are in the Agent panel. If it reads "Agent panel," then you are in the Admin panel.)
 
 <p>
 <img src="https://i.imgur.com/UPmyOMv.png"/>
