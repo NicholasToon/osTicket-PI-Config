@@ -46,7 +46,7 @@ In the previous tutorial, we installed <a href="https://github.com/NicholasToon/
 ![Image](https://i.imgur.com/9Bh6r4a.png)
  
 ### Departments 
-Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators -> Create Dept (System Administrators will now appear in Departments) 
+Admin Panel -> **Agents** -> **Departments** -> (Example) Name: System Administrators -> **Create Dept** (System Administrators will now appear in Departments) 
 
 
 ![Image](https://i.imgur.com/mzBZR3C.png)
@@ -55,13 +55,13 @@ Admin Panel -> Agents -> Departments -> (Example) Name: System Administrators ->
  
 ### Teams 
 
-Admin Panel -> Agents -> Teams -> Add New Team (If level I Support is not already created, then create it as you would Level II) -> Member -> Select Agent -> Add your created agent -> Create Team (Level II support will now have how ever many member(s) that were added to it)
+Admin Panel -> **Agents** -> **Teams** -> **Add New Team** (If level I Support is not already created, then create it as you would Level II) -> **Members** -> **Select Agent** -> Add your created agent -> **Create Team** (Level II support will now have how ever many member(s) that were added to it)
 
 ![Image](https://i.imgur.com/ehfmvXL.png)
  
 ### Allow Anyone to Create Tickets
 
-Admin Panel -> Settings -> Users -> Settings -> Registration Required: [√] Require registration and login to create tickets -> Save Changes
+Admin Panel -> **Settings** -> **Users** -> **Settings** -> Registration Required: [√] Require registration and login to create tickets -> **Save Changes**
 
 ![Image](https://i.imgur.com/MaxNrRg.png)
  
@@ -75,10 +75,9 @@ Admin Panel -> Settings -> Users -> Settings -> Registration Required: [√] Req
  
  
 ### Agents (Workers) 
-Admin Panel -> Agents -> Add New Agent -> Enter Credentials of your choice -> [√] Administrator -> Set Password -> [Uncheck] Send the agent a password reset email -> Set Password (I use Password1 for this tutorial) -> [Uncheck] Require password change at next login (Turn this off to save you headaches in the future) -> Access -> Primary Department -> System Administrators -> Select Role -> Supreme Admin -Extended Access -> System Administrators -> Permissions -> Select All -> Teams -> (Any one that you wish) Level II Support -> Create
+Admin Panel -> **Agents** -> **Add New Agent** -> Enter Credentials of your choice -> [√] Administrator -> **Set Password** -> [Uncheck] Send the agent a password reset email -> **Set** Password (I use Password1 for this tutorial) -> [Uncheck] Require password change at next login (Turn this off to save you headaches in the future) -> **Access** -> **Primary Department** -> System Administrators -> **Select Role** -> Supreme Admin -> **Extended Access** -> System Administrators -> **Permissions** -> Select All -> **Teams** -> (Any one that you wish) Level II Support -> **Create**
 
-Feel Free to create other Agents for the different departments, rolls,etc.
-
+Feel free to create other agents for different departments, roles, etc.
 
 ![Image](https://i.imgur.com/GYkqc44.png)
  
@@ -90,7 +89,7 @@ Feel Free to create other Agents for the different departments, rolls,etc.
  
 ### Users (Customers)
 
-Agent Panel (You should see Admin Panel after you switch) -> Users -> Add User -> Enter Credentials -Add User (User will now appear in User Directory) -> Register -> [Uncheck] Send account activation email to [Customer Email] -> Set Password -> Create Account (User will now appear as active and registered)
+Agent Panel (You should see Admin Panel after you switch) -> **Users** -> **Add User** -> Enter Credentials -> **Add User** (User will now appear in User Directory) -> **Register** -> [Uncheck] Send account activation email to [Customer Email] -> Set Password -> **Create Account** (User will now appear as active and registered)
 
 Feel free to create other users.
 
@@ -106,7 +105,7 @@ Feel free to create other users.
  
  ### SLA (Service-Level Agreement)
  
- Admin Panel -> Manage -> SLA -> Add New SLA Plan -> Create Sev-A (It will now appear in Service Level Aggrements) -> Create Sev-B and Sev-C
+ Admin Panel -> **Manage** -> **SLA** -> **Add New SLA Plan** -> Create Sev-A (It will now appear in Service Level Aggrements) -> Create Sev-B and Sev-C
   - Sev-A (1 hour, 24/7)
   - Sev-B (4 hours, 24/7)
   - Sev-C (8 hours, business hours)
@@ -117,7 +116,7 @@ Feel free to create other users.
  
 ### Help Topics
 
-Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Create a handful of topics -> Add Topic
+Admin Panel -> **Manage** -> **Help Topics** -> **Add New Help Topic** -> Create a handful of topics -> **Add Topic** ( you have to back out after add each new topic.)
 
 - Buisness Critical Outrage
 - Personal Computer Issues 
