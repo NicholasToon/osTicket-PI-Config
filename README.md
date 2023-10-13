@@ -125,8 +125,4 @@ Admin Panel -> **Manage** -> **Help Topics** -> **Add New Help Topic** -> Create
 
 Check your Help Topics dashboard and your new inputs will have generated successfully.
  
-## Congratulations! You have successfully set up the core configurations of osTicket. If you would like to explore further ticket manipulation, you can find a Example that I have prepared for you to emulate and expand upon by clicking [here](https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Example). 
-
-Thank you for your time.
- 
-## Thank you for your time.
+## Congratulations! You have successfully set up the core configurations of osTicket. If you would like to explore further ticket manipulation, you can find a Example that I have prepared for you to emulate and expand upon by clicking [here](https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Example). Thank you for your time.
