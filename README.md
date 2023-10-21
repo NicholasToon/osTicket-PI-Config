@@ -3,6 +3,8 @@
 # osTicket - Post-Installation Configuration
 In the previous tutorial, we installed <a href="https://github.com/NicholasToon/osticket-prereqs"> osTicket. </a> In this tutorial, we will continue with the configuration process to familiarize you with its basic functions and setups.
 
+*Always delete your resource groups and other environments in Azure to avoid incurring any unwanted charges on your free credits or actual money. Keep resources open at your own discretion.*
+
  ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
